@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-03T20:55:33 EDT" name="SmokeTest" finished-at="2021-06-03T20:57:06 EDT" duration-ms="93798">
+    <groups>
+    </groups>
+    <test started-at="2021-06-03T20:55:33 EDT" name="Smoke" finished-at="2021-06-03T20:57:06 EDT" duration-ms="93798">
+      <class name="tests.AmazonSearchTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.AmazonSearchTest@ec756bd]" started-at="2021-06-03T20:55:33 EDT" name="beforeMethod" finished-at="2021-06-03T20:55:37 EDT" duration-ms="4270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="amazonSearchTest()[pri:0, instance:tests.AmazonSearchTest@ec756bd]" started-at="2021-06-03T20:55:37 EDT" name="amazonSearchTest" finished-at="2021-06-03T20:56:01 EDT" duration-ms="24087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonSearchTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.AmazonSearchTest@ec756bd]" started-at="2021-06-03T20:56:01 EDT" name="afterMethod" finished-at="2021-06-03T20:56:01 EDT" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.AmazonSearchTest@ec756bd]" started-at="2021-06-03T20:56:01 EDT" name="beforeMethod" finished-at="2021-06-03T20:56:04 EDT" duration-ms="2713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="dropDownTest()[pri:0, instance:tests.AmazonSearchTest@ec756bd]" started-at="2021-06-03T20:56:04 EDT" name="dropDownTest" finished-at="2021-06-03T20:56:15 EDT" duration-ms="10837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDownTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.AmazonSearchTest@ec756bd]" started-at="2021-06-03T20:56:15 EDT" name="afterMethod" finished-at="2021-06-03T20:56:15 EDT" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.AmazonSearchTest@ec756bd]" started-at="2021-06-03T20:56:15 EDT" name="beforeMethod" finished-at="2021-06-03T20:56:17 EDT" duration-ms="2601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchResultVerify()[pri:0, instance:tests.AmazonSearchTest@ec756bd]" started-at="2021-06-03T20:56:17 EDT" name="searchResultVerify" finished-at="2021-06-03T20:56:41 EDT" duration-ms="23941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResultVerify -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.AmazonSearchTest@ec756bd]" started-at="2021-06-03T20:56:41 EDT" name="afterMethod" finished-at="2021-06-03T20:56:41 EDT" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.AmazonSearchTest -->
+      <class name="tests.AmazonAddToCartTest">
+        <test-method signature="f()[pri:0, instance:tests.AmazonAddToCartTest@38c5cc4c]" started-at="2021-06-03T20:55:33 EDT" name="f" finished-at="2021-06-03T20:55:33 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- tests.AmazonAddToCartTest -->
+      <class name="tests.AmazonCreateAccountTest">
+        <test-method signature="f()[pri:0, instance:tests.AmazonCreateAccountTest@4c15e7fd]" started-at="2021-06-03T20:55:33 EDT" name="f" finished-at="2021-06-03T20:55:33 EDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- tests.AmazonCreateAccountTest -->
+      <class name="tests.AmazonItemPurchaseTest">
+        <test-method signature="f()[pri:0, instance:tests.AmazonItemPurchaseTest@37918c79]" started-at="2021-06-03T20:55:33 EDT" name="f" finished-at="2021-06-03T20:55:33 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- tests.AmazonItemPurchaseTest -->
+      <class name="tests.SeleniumEasyAlertTests">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.SeleniumEasyAlertTests@63a65a25]" started-at="2021-06-03T20:56:41 EDT" name="beforeMethod" finished-at="2021-06-03T20:56:44 EDT" duration-ms="2706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="firstAlertTest()[pri:1, instance:tests.SeleniumEasyAlertTests@63a65a25]" started-at="2021-06-03T20:56:44 EDT" name="firstAlertTest" description="This is first Alert accept test." finished-at="2021-06-03T20:56:51 EDT" duration-ms="6692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstAlertTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.SeleniumEasyAlertTests@63a65a25]" started-at="2021-06-03T20:56:51 EDT" name="afterMethod" finished-at="2021-06-03T20:56:51 EDT" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.SeleniumEasyAlertTests@63a65a25]" started-at="2021-06-03T20:56:51 EDT" name="beforeMethod" finished-at="2021-06-03T20:56:53 EDT" duration-ms="2428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="secondAlertTest()[pri:2, instance:tests.SeleniumEasyAlertTests@63a65a25]" started-at="2021-06-03T20:56:53 EDT" name="secondAlertTest" description="This is second Alert accept test." finished-at="2021-06-03T20:56:58 EDT" duration-ms="5089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondAlertTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.SeleniumEasyAlertTests@63a65a25]" started-at="2021-06-03T20:56:58 EDT" name="afterMethod" finished-at="2021-06-03T20:56:59 EDT" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.SeleniumEasyAlertTests@63a65a25]" started-at="2021-06-03T20:56:59 EDT" name="beforeMethod" finished-at="2021-06-03T20:57:01 EDT" duration-ms="2476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="thirdAlertTest()[pri:3, instance:tests.SeleniumEasyAlertTests@63a65a25]" started-at="2021-06-03T20:57:01 EDT" name="thirdAlertTest" description="This is third Alert accept test." finished-at="2021-06-03T20:57:06 EDT" duration-ms="5284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdAlertTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.SeleniumEasyAlertTests@63a65a25]" started-at="2021-06-03T20:57:06 EDT" name="afterMethod" finished-at="2021-06-03T20:57:06 EDT" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.SeleniumEasyAlertTests -->
+    </test> <!-- Smoke -->
+  </suite> <!-- SmokeTest -->
+</testng-results>
